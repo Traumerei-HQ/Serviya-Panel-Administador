@@ -31,4 +31,3 @@
 - **`utils/`**: Funciones de utilidad como formateo de fechas, validaciones, etc.  
 - **`server.java`**: Archivo principal que ejecuta el servidor HTTP con Java (puede ser un simple servidor con HttpServer).
 
-### 2️⃣
